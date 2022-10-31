@@ -1,0 +1,7 @@
+version: 'version'
+
+services:
+  chrony:
+    image: chrony
+    ports:
+      - 123:123/udp
