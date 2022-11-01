@@ -6,8 +6,13 @@ This Docker image use `chrony` as the Network Time Protocol (NTP) server.
 
 `chrony` is a versatile implementation of the Network Time Protocol (NTP) - https://chrony.tuxfamily.org/
 
+### Usage
 
-### Example
+```
+docker pull ghcr.io/soramitsukhmer-lab/ntp-server:main
+```
+
+**Output**
 
 ```
 s6-rc: info: service s6rc-oneshot-runner: starting
