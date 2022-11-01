@@ -1,6 +1,11 @@
 ### About
 
-`chrony` is a versatile implementation of the Network Time Protocol (NTP)
+This Docker image use `chrony` as the Network Time Protocol (NTP) server.  
+
+**What is chrony?**
+
+`chrony` is a versatile implementation of the Network Time Protocol (NTP) - https://chrony.tuxfamily.org/
+
 
 ### Example
 
